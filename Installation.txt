@@ -1,0 +1,15 @@
+1. Install Visual Studio Code
+
+https://code.visualstudio.com/
+
+2. Install Visual Studio Code Extensions
+
+--> Live Preview
+
+--> Prettier
+
+--> vscode-icons
+
+3. Install Google Chrome
+
+https://www.google.com/intl/en_uk/chrome/
