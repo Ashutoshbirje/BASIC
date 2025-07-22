@@ -46,6 +46,7 @@
 - [Shields.io (Badges)](https://shields.io/)
 - [Anime.js](https://animejs.com/)
 - [Favicon Generator](https://www.favicon.cc/)
+- [ReactBits](https://www.reactbits.dev/)
 
 ## 🎨 Icons
 - [Font Awesome](https://fontawesome.com/)
