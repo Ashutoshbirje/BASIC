@@ -25,6 +25,9 @@
 - [Diff Checker](https://diffchecker.com)
 - [JSON Viewer](https://jsonformatter.org/json-viewer)
 - [CSS Tricks](https://css-tricks.com/)
+- [React](https://react.dev/)
+- [React-Router](https://reactrouter.com/)
+- [Tailwind](https://tailwindcss.com/)
 - [NPM](https://www.npmjs.com/)
 
 ## 🧩 Chrome Extensions
